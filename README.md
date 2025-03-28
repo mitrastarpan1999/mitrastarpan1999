@@ -4,8 +4,8 @@
 - 💻 I’m also exploring Machine Learning and Python Automation.  
 - 💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.  
 - 📫 How to reach me:  
-    - LinkedIn: [Arpan Mitra](https://www.linkedin.com/in/arpanmitra1999/)  
-    - GitHub: [mitrastarpan1999](https://github.com/mitrastarpan1999)  
+    - LinkedIn: [Arpan Mitra](https://www.linkedin.com/in/arpan-mitra-00033b240/)  
+    - GitHub: [mitrastarpan1999](https://github.com/mitrastarpan1999/mitrastarpan1999/)  
     - Email: mitrastarpan1999@gmail.com  
 
 - 😄 Pronouns: He/Him  
